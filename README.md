@@ -1,7 +1,8 @@
 # AWS VPC with Terraform
 
 This repository contains Terraform code that sets up a most basic AWS VPC. This VPC contains some public 
-and private subnets. I use it in other projects and it is extracted here as a common component.
+and private subnets. I use it in other projects and it is extracted here as a common component: the VPC and subnet 
+IDs outputted here can be used by other Terraform projects.
 
 This simple setup is free on AWS.
 

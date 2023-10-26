@@ -1,7 +1,8 @@
 inputs.tfvars
-terraform-aws-vpc.iml
+*.iml
 commands.txt
 
 .terraform.lock.hcl
-vpc.tfplan
+*.tfstate
+*.tfplan
 *.xml
